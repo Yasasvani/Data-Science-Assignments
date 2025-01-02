@@ -11,10 +11,4 @@ The notebook (`main.ipynb`) includes the following programs:
 4.  **Word Counter:** Counts the number of occurrences of each word in a given text.
 5.  **Palindrome Checker:** Checks if a given string is a palindrome, ignoring spaces, punctuation, and capitalization.
 
-## How to View and Run
-
-1.  **View the notebook:** You can directly view the notebook (`main.ipynb`) on GitHub. It will render with the code and outputs.
-2.  **Run the notebook:** To run the notebook interactively, you can:
-    *   Download the notebook and open it in a local Jupyter environment.
-    *   Open the notebook in Google Colab using the following link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bq1V9KP-HQPId36O9FjvDCHYSW5V1mRI#scrollTo=A-W0FxfckiCv_)
 
