@@ -46,6 +46,58 @@ The following data was used in the analysis:
 
 The analysis revealed that the test statistic was significantly lower than the critical value. Therefore, the null hypothesis was not rejected. This means there is no strong evidence to support the restaurant owners' claim that the weekly operating costs are higher than the model suggests.
 
+# Chi-Square Test for Independence: Smart Home Device Customer Satisfaction
+
+## Overview
+
+This project investigates the association between the type of smart home device purchased (Smart Thermostat vs. Smart Light) and customer satisfaction levels using the Chi-Square Test for Independence.
+
+## Background
+
+Mizzare Corporation aims to understand if there's a significant relationship between the type of device and customer satisfaction. This analysis uses a contingency table summarizing customer satisfaction levels for both device types.
+
+## Data
+
+The data represents the counts of customers in each satisfaction level category for both Smart Thermostats and Smart Lights. It is structured as a contingency table:
+
+| Satisfaction Level | Smart Thermostat | Smart Light | Total |
+|---|---|---|---|
+| Very Satisfied | 50 | 70 | 120 |
+| Satisfied | 80 | 100 | 180 |
+| Neutral | 60 | 90 | 150 |
+| Unsatisfied | 30 | 50 | 80 |
+| Very Unsatisfied | 20 | 50 | 70 |
+| Total | 240 | 360 | 600 |
+
+## Methodology
+
+1. **State the Hypotheses:**
+   - Null Hypothesis: There is no association between device type and customer satisfaction.
+   - Alternative Hypothesis: There is an association between device type and customer satisfaction.
+
+2. **Compute the Chi-Square Statistic:**
+   - Calculate the expected frequencies for each cell in the contingency table.
+   - Use the formula: `chi_square_statistic = ((observed_data - expected_data) ** 2 / expected_data).sum()`
+
+3. **Determine the Critical Value:**
+   - Set the significance level (alpha) to 0.05.
+   - Calculate the degrees of freedom: `(number of rows - 1) * (number of columns - 1)`
+   - Use the chi-square distribution to find the critical value.
+
+4. **Make a Decision:**
+   - Compare the calculated Chi-Square statistic with the critical value.
+   - If the Chi-Square statistic is greater than the critical value, reject the null hypothesis. Otherwise, fail to reject the null hypothesis.
+
+## Results
+
+- Chi-Square Statistic: 5.64
+- Critical Value: 9.49
+- Degrees of Freedom: 4
+- P-value: 0.227
+
+## Conclusion
+
+Since the Chi-Square statistic is less than the critical value, we fail to reject the null hypothesis. Therefore, there is no significant association between the type of smart home device and customer satisfaction levels at the 5% significance level. Customer satisfaction appears to be independent of the type of device purchased.
 
 
 ## Code
