@@ -2,7 +2,7 @@
 
 # Cardiotocographic Data Analysis
 
-This project explores a Cardiotocographic dataset to analyze fetal health and predict potential risks during pregnancy. The analysis involves data cleaning, statistical summaries, visualizations, and pattern recognition to gain insights into fetal well-being.
+This Assignment explores a Cardiotocographic dataset to analyze fetal health and predict potential risks during pregnancy. The analysis involves data cleaning, statistical summaries, visualizations, and pattern recognition to gain insights into fetal well-being.
 
 ## Dataset
 
