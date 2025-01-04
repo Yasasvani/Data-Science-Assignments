@@ -1,13 +1,13 @@
 # MLR
 # Toyota Corolla Price Prediction
 
-## Project Overview
+## Assignment Overview
 
-This project aims to predict the price of used Toyota Corolla cars based on various features such as age, mileage, horsepower, and fuel type. It utilizes a Multiple Linear Regression (MLR) model trained on a dataset of Toyota Corolla sales. The project involves data exploration, preprocessing, model building, evaluation, and the application of regularization techniques like Lasso and Ridge regression.
+This assignment aims to predict the price of used Toyota Corolla cars based on various features such as age, mileage, horsepower, and fuel type. It utilizes a Multiple Linear Regression (MLR) model trained on a dataset of Toyota Corolla sales. The assignment involves data exploration, preprocessing, model building, evaluation, and the application of regularization techniques like Lasso and Ridge regression.
 
 ## Dataset
 
-The dataset used for this project is named "ToyotaCorolla - MLR.csv" and contains information about used Toyota Corolla cars, including their price and various features.
+The dataset used for this assignment is named "ToyotaCorolla - MLR.csv" and contains information about used Toyota Corolla cars, including their price and various features.
 
 ## Methodology
 
@@ -36,7 +36,7 @@ The performance of the models is evaluated and compared based on the chosen metr
 
 ## Conclusion
 
-This project demonstrates the application of machine learning techniques to predict car prices. The MLR model, along with regularization, provides a reliable approach for estimating the price of used Toyota Corolla cars based on their features.
+This assignment demonstrates the application of machine learning techniques to predict car prices. The MLR model, along with regularization, provides a reliable approach for estimating the price of used Toyota Corolla cars based on their features.
 
 ## Future Work
 
@@ -44,7 +44,7 @@ Possible future improvements include exploring other machine learning algorithms
 
 ## Usage
 
-To run this project:
+To run this assignment:
 
 1. Upload the "ToyotaCorolla - MLR.csv" dataset to your Google Colab environment.
 2. Execute the provided Python code in the notebook.
