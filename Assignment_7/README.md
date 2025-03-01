@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project aims to predict the survival of passengers on the Titanic using machine learning. It utilizes a Logistic Regression model trained on the Titanic dataset.
+This Assignment aims to predict the survival of passengers on the Titanic using machine learning. It utilizes a Logistic Regression model trained on the Titanic dataset.
 
 ## Dataset
 
-The project uses the Titanic dataset, which contains information about passengers aboard the Titanic, including their demographics, travel details, and survival status.
+The Assignment uses the Titanic dataset, which contains information about passengers aboard the Titanic, including their demographics, travel details, and survival status.
 
 ## Methodology
 
