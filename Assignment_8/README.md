@@ -1,11 +1,11 @@
 # Clustering
 # EastWestAirlines Customer Segmentation
 
-This project aims to perform customer segmentation for EastWestAirlines using clustering techniques in Python. We use the K-Means, Hierarchical, and DBSCAN algorithms to group customers based on their characteristics and behaviors.
+This Assignment aims to perform customer segmentation for EastWestAirlines using clustering techniques in Python. We use the K-Means, Hierarchical, and DBSCAN algorithms to group customers based on their characteristics and behaviors.
 
 ## Dataset
 
-The dataset used in this project is "EastWestAirlines.xlsx," which contains information about airline customers, including their flight miles, bonus points, and other relevant features.
+The dataset used in this Assignment is "EastWestAirlines.xlsx," which contains information about airline customers, including their flight miles, bonus points, and other relevant features.
 
 ## Libraries Used
 
