@@ -9,7 +9,7 @@ The dataset used in this Assignment is "EastWestAirlines.xlsx," which contains i
 
 ## Libraries Used
 
-The following libraries are used in this project:
+The following libraries are used in this Assignment:
 
 - numpy
 - pandas
@@ -35,7 +35,7 @@ The following libraries are used in this project:
 
 ## Results
 
-The project identifies distinct customer segments based on their behavior and characteristics. The clusters can be used to understand customer preferences and tailor marketing strategies accordingly.
+The Assignment identifies distinct customer segments based on their behavior and characteristics. The clusters can be used to understand customer preferences and tailor marketing strategies accordingly.
 
 ## Usage
 
