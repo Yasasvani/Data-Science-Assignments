@@ -1,7 +1,7 @@
 # PCA
 # Wine Clustering Analysis
 
-This project explores clustering techniques applied to a wine dataset. The primary goals are to:
+This Project explores clustering techniques applied to a wine dataset. The primary goals are to:
 
 1. Perform Exploratory Data Analysis (EDA) to understand the dataset's characteristics.
 2. Apply Principal Component Analysis (PCA) for dimensionality reduction.
@@ -32,7 +32,7 @@ The clustering results are compared and analyzed to understand the impact of PCA
 
 ## Conclusion
 
-The project concludes with key findings and insights derived from the analysis. It summarizes the performance of clustering on both datasets and highlights the trade-offs between dimensionality reduction and clustering accuracy.
+The Project concludes with key findings and insights derived from the analysis. It summarizes the performance of clustering on both datasets and highlights the trade-offs between dimensionality reduction and clustering accuracy.
 
 ## Dependencies
 
