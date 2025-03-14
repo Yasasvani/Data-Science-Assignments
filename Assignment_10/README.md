@@ -1,7 +1,7 @@
 # Association Rules
 # Market Basket Analysis with Apriori Algorithm
 
-This project demonstrates Market Basket Analysis using the Apriori algorithm on an online retail dataset. It aims to identify associations and patterns in customer purchase behavior, uncovering insights for targeted marketing and inventory management.
+This assignment demonstrates Market Basket Analysis using the Apriori algorithm on an online retail dataset. It aims to identify associations and patterns in customer purchase behavior, uncovering insights for targeted marketing and inventory management.
 
 ## Dataset
 
@@ -61,4 +61,4 @@ The discovered patterns provide valuable insights for:
 
 ## Conclusion
 
-This project demonstrates the application of Market Basket Analysis using the Apriori algorithm. The identified associations and insights can be leveraged by businesses to improve sales, customer satisfaction, and operational efficiency.
+This assignment demonstrates the application of Market Basket Analysis using the Apriori algorithm. The identified associations and insights can be leveraged by businesses to improve sales, customer satisfaction, and operational efficiency.
