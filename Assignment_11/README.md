@@ -1,7 +1,7 @@
 # Recommendation System
 # Anime Recommendation System
 
-This project implements an anime recommendation system using collaborative filtering in Python. It leverages the cosine similarity metric to identify similar animes based on user ratings and preferences.
+This assignment implements an anime recommendation system using collaborative filtering in Python. It leverages the cosine similarity metric to identify similar animes based on user ratings and preferences.
 
 ## Dataset
 
