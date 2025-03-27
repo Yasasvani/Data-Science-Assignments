@@ -1,7 +1,7 @@
 # Exploratory Data Analysis 2
 # Adult Income Prediction
 
-This project aims to predict whether an individual's income exceeds $50,000 per year based on various demographic and socioeconomic factors. The dataset used is the "Adult" dataset, also known as the "Census Income" dataset.
+This Assignment aims to predict whether an individual's income exceeds $50,000 per year based on various demographic and socioeconomic factors. The dataset used is the "Adult" dataset, also known as the "Census Income" dataset.
 
 ## Project Structure
 
