@@ -39,7 +39,7 @@ This Assignment aims to predict whether an individual's income exceeds $50,000 p
 
 ## Results
 
-The notebook provides insights into the dataset, including data distributions, feature relationships, and model performance. You can further extend this project by experimenting with different models and hyperparameters.
+The notebook provides insights into the dataset, including data distributions, feature relationships, and model performance. You can further extend this assignment by experimenting with different models and hyperparameters.
 
 ## Contributing
 
