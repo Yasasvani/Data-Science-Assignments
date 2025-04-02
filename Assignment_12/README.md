@@ -3,7 +3,7 @@
 
 This Assignment aims to predict whether an individual's income exceeds $50,000 per year based on various demographic and socioeconomic factors. The dataset used is the "Adult" dataset, also known as the "Census Income" dataset.
 
-## Project Structure
+## Assignment Structure
 
 * `adult_with_headers.csv`: The dataset file containing the features and target variable.
 * `notebook.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, feature engineering, and model building.
