@@ -33,4 +33,37 @@ The dataset used for this project is the "Heart Disease Dataset" and it contains
 - Scikit-learn
 - IPython
 
+## Usage
 
+1. Upload the dataset file (`heart_disease.xlsx`) to Google Colab.
+2. Run the Colab notebook (`heart_disease_prediction.ipynb`) to execute the code.
+
+## Model Evaluation
+
+The model is evaluated using the following metrics:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- ROC AUC
+
+## Hyperparameter Tuning
+
+The model's hyperparameters are tuned using GridSearchCV to find the optimal settings for improved performance.
+
+## Results
+
+The model achieved an accuracy of [insert accuracy score] on the test set.
+
+## Conclusion
+
+This project demonstrates the application of machine learning in predicting heart disease. The Decision Tree Classifier, after hyperparameter tuning, provided promising results. Further improvements could be explored by using other algorithms, feature engineering, and larger datasets.
+
+## Contributing
+
+Contributions to this project are welcome! Feel free to submit pull requests for bug fixes, improvements, or new features.
+
+## License
+
+This project is licensed under the MIT License.
