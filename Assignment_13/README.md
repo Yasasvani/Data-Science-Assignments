@@ -3,11 +3,11 @@
 
 ## Overview
 
-This project aims to predict the presence of heart disease using a machine learning model trained on a dataset of patient characteristics and medical history. It utilizes a Decision Tree Classifier to classify patients based on risk factors and predicts the likelihood of heart disease. The project includes data exploration, preprocessing, model training, evaluation, and hyperparameter tuning.
+This assignment aims to predict the presence of heart disease using a machine learning model trained on a dataset of patient characteristics and medical history. It utilizes a Decision Tree Classifier to classify patients based on risk factors and predicts the likelihood of heart disease. The project includes data exploration, preprocessing, model training, evaluation, and hyperparameter tuning.
 
 ## Dataset
 
-The dataset used for this project is the "Heart Disease Dataset" and it contains the following features:
+The dataset used for this assignment is the "Heart Disease Dataset" and it contains the following features:
 
 - **age:** Age of the patient
 - **sex:** Sex of the patient (Male/Female)
