@@ -58,11 +58,11 @@ The model achieved an accuracy of [insert accuracy score] on the test set.
 
 ## Conclusion
 
-This project demonstrates the application of machine learning in predicting heart disease. The Decision Tree Classifier, after hyperparameter tuning, provided promising results. Further improvements could be explored by using other algorithms, feature engineering, and larger datasets.
+This assignment demonstrates the application of machine learning in predicting heart disease. The Decision Tree Classifier, after hyperparameter tuning, provided promising results. Further improvements could be explored by using other algorithms, feature engineering, and larger datasets.
 
 ## Contributing
 
-Contributions to this project are welcome! Feel free to submit pull requests for bug fixes, improvements, or new features.
+Contributions to this assignment are welcome! Feel free to submit pull requests for bug fixes, improvements, or new features.
 
 ## License
 
