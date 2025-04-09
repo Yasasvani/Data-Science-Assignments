@@ -1,7 +1,7 @@
 # Random Forest
 # Glass Classification
 
-This project aims to classify different types of glass using machine learning models. The dataset used is the Glass Identification Database, which contains various physical and chemical properties of glass samples.
+This assignment aims to classify different types of glass using machine learning models. The dataset used is the Glass Identification Database, which contains various physical and chemical properties of glass samples.
 
 ## Dataset
 
@@ -51,7 +51,7 @@ The results of the different models are compared, and Boosting is found to outpe
 
 ## Conclusion
 
-This project demonstrates the application of machine learning for glass classification. The results show that Boosting is a promising approach for this task.
+This assignment demonstrates the application of machine learning for glass classification. The results show that Boosting is a promising approach for this task.
 
 ## Additional Resources
 
