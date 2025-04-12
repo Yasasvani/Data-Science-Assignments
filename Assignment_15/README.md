@@ -35,7 +35,7 @@ The performance of the LightGBM and XGBoost models was compared, and the results
 
 ## Conclusion
 
-This project demonstrates the application of machine learning to predict survival on the Titanic. The results show that LightGBM and XGBoost models are effective in predicting survival outcomes.
+This assignment demonstrates the application of machine learning to predict survival on the Titanic. The results show that LightGBM and XGBoost models are effective in predicting survival outcomes.
 
 
 ## Usage
