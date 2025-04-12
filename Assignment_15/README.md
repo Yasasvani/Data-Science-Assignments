@@ -2,7 +2,7 @@
 
 # Titanic Survival Prediction
 
-This project aims to predict the survival of passengers on the Titanic using machine learning models. It utilizes the Titanic dataset, which contains information about passengers such as age, gender, class, and whether they survived.
+This assignment aims to predict the survival of passengers on the Titanic using machine learning models. It utilizes the Titanic dataset, which contains information about passengers such as age, gender, class, and whether they survived.
 
 ## Dataset
 
