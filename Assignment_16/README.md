@@ -25,7 +25,7 @@ The trained KNN model achieved an accuracy of 0.95 on the test set. The classifi
 
 ## Conclusion
 
-This project demonstrates the application of the KNN algorithm for classifying zoo animals based on their characteristics. The results show that the model can effectively predict the animal type with a high degree of accuracy. Further improvements could be explored by using different algorithms or feature engineering techniques.
+This assignment demonstrates the application of the KNN algorithm for classifying zoo animals based on their characteristics. The results show that the model can effectively predict the animal type with a high degree of accuracy. Further improvements could be explored by using different algorithms or feature engineering techniques.
 
 ## Usage
 
@@ -49,6 +49,3 @@ The following libraries are required to run this project:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
 
-## License
-
-This project is licensed under the [insert license name] License.
