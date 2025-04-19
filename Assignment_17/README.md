@@ -1,7 +1,7 @@
 # Support Vector Machine
 # Mushroom Classification
 
-This project aims to classify mushrooms as edible or poisonous using machine learning. It utilizes a Support Vector Machine (SVM) model trained on a dataset of mushroom features.
+This assignment aims to classify mushrooms as edible or poisonous using machine learning. It utilizes a Support Vector Machine (SVM) model trained on a dataset of mushroom features.
 
 ## Dataset
 
