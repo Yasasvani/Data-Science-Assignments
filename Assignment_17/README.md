@@ -5,7 +5,7 @@ This assignment aims to classify mushrooms as edible or poisonous using machine 
 
 ## Dataset
 
-The dataset used in this project contains information about various characteristics of mushrooms, including cap shape, cap surface, cap color, odor, and more. It can be found in the file 'mushroom.csv'.
+The dataset used in this assignment contains information about various characteristics of mushrooms, including cap shape, cap surface, cap color, odor, and more. It can be found in the file 'mushroom.csv'.
 
 ## Preprocessing
 
@@ -47,7 +47,7 @@ To run this assignment:
 
 ## Contributing
 
-Contributions to this project are welcome. Please feel free to submit pull requests or open issues.
+Contributions to this assignment are welcome. Please feel free to submit pull requests or open issues.
 
 ## License
 
