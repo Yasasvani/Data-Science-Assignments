@@ -30,7 +30,7 @@ The SVM model achieved high accuracy in classifying mushrooms as edible or poiso
 
 ## Usage
 
-To run this project:
+To run this assignment:
 
 1. Upload the 'mushroom.csv' file to your Google Colab environment.
 2. Execute the code cells in the provided notebook.
