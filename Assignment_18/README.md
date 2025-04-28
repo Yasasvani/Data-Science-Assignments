@@ -2,11 +2,11 @@
 
 # Alphabet Recognition using Deep Learning
 
-This project aims to build a deep learning model to recognize alphabets (letters) using a dataset of letter features.
+This assignment aims to build a deep learning model to recognize alphabets (letters) using a dataset of letter features.
 
 ## Dataset
 
-The project uses the "Alphabets_data.csv" dataset. This dataset contains features extracted from images of alphabets, such as the position and size of the letter within the image. Each row represents a different alphabet sample, and the columns represent the features and the corresponding letter label.
+The assignment uses the "Alphabets_data.csv" dataset. This dataset contains features extracted from images of alphabets, such as the position and size of the letter within the image. Each row represents a different alphabet sample, and the columns represent the features and the corresponding letter label.
 
 ## Model
 
