@@ -53,7 +53,7 @@ The model's performance is evaluated using metrics such as accuracy, precision, 
 
 ## Conclusion
 
-The project demonstrates the application of deep learning for alphabet recognition. By analyzing the results, we can understand the model's performance and potentially improve it by further tuning or exploring different architectures.
+The assignment demonstrates the application of deep learning for alphabet recognition. By analyzing the results, we can understand the model's performance and potentially improve it by further tuning or exploring different architectures.
 
 ## Contributing
 
