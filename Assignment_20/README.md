@@ -2,11 +2,11 @@
 
 # Exchange Rate Forecasting
 
-This project focuses on forecasting exchange rates using time series analysis techniques in Python. It explores two popular methods: ARIMA and Exponential Smoothing (Holt's Linear Trend).
+This assignment focuses on forecasting exchange rates using time series analysis techniques in Python. It explores two popular methods: ARIMA and Exponential Smoothing (Holt's Linear Trend).
 
 ## Dataset
 
-The project uses a dataset named `exchange_rate.csv` containing historical exchange rate data. 
+The assignment uses a dataset named `exchange_rate.csv` containing historical exchange rate data. 
 
 **Data Columns:**
 
@@ -53,7 +53,7 @@ The project uses a dataset named `exchange_rate.csv` containing historical excha
 
 ## Conclusion
 
-This project provides a comparative analysis of ARIMA and Exponential Smoothing for exchange rate forecasting. The findings can be used to guide the selection of an appropriate model for specific forecasting scenarios.
+This assignment provides a comparative analysis of ARIMA and Exponential Smoothing for exchange rate forecasting. The findings can be used to guide the selection of an appropriate model for specific forecasting scenarios.
 
 ## Disclaimer
 
